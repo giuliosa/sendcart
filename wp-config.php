@@ -24,13 +24,13 @@
 define( 'DB_NAME', 'sendcart' );
 
 /** Usuário do banco de dados MySQL */
-define( 'DB_USER', 'giuliosa' );
+define( 'DB_USER', 'sendcart' );
 
 /** Senha do banco de dados MySQL */
-define( 'DB_PASSWORD', 'Giulio93#' );
+define( 'DB_PASSWORD', 'sendcart2018' );
 
 /** Nome do host do MySQL */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'mysql785.umbler.com' );
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define( 'DB_CHARSET', 'utf8' );
